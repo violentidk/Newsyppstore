@@ -84,3 +84,4 @@ function filterApps() {
 }
 
 window.onload = loadApps;
+ 
